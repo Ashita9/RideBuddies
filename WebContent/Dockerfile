@@ -1,2 +1,2 @@
 FROM tomcat:8.5
-COPY RideBuddiesN.war /usr/local/tomcat/webapps
+COPY RideBuddies.war /usr/local/tomcat/webapps
